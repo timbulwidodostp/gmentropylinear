@@ -5,6 +5,8 @@ Generalized maximum entropy linear model Use gmentropylinear With STATA 18
 
 Generalized Maximum Entropy (Linear) Use gmentropylinear With STATA 18
 
+https://www.youtube.com/watch?v=QskuZ6klw30
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
